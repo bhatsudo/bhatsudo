@@ -1,3 +1,4 @@
+![IoT](./network.gif)
 ### Hi there! I am Sudo Bhat
 
 🔭 I’m currently working on
