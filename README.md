@@ -33,3 +33,4 @@ Check out [sudoc.dev](https://sudoc.dev)!
 
 [linkedin](www.linkedin.com/in/sudarshangbhat)
 
+![Ciao!](./footer.png)
