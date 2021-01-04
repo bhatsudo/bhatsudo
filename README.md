@@ -4,8 +4,10 @@
 Sudoc
 Cubanops
 
-🌱 I’m currently learning
+I write content on
+
+https://sudoc.dev
 
 📫 How to reach me
-email twitter instagram
+gsudubhat@gmail.com www.twitter.com/sudobhat www.instagram.com/le_sudarshan www.linkedin.com/in/sudarshangbhat
 
