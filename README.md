@@ -27,10 +27,10 @@ Check out [sudoc.dev](https://sudoc.dev) !
 
 ## How to reach me
 
-[Twitter](www.twitter.com/sudobhat)
+[Twitter](https://www.twitter.com/sudobhat)
 
-[Instagram](www.instagram.com/le_sudarshan)
+[Instagram](https://www.instagram.com/le_sudarshan)
 
-[LinkedIn](www.linkedin.com/in/sudarshangbhat)
+[LinkedIn](https://www.linkedin.com/in/sudarshangbhat)
 
 ![Ciao!](./footer.png)
