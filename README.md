@@ -1,16 +1,20 @@
 ![Hello, I am Sudo Bhat](./hello.gif)
-### Hi there! I am Sudo Bhat
 
-🔭 I’m currently working on
+I’m currently working on
 
-Sudoc
+## Sudoc
+
 Cubanops
 
-I write content on
+I write IoT related content on my blog 
 
-https://sudoc.dev
+[sudoc.dev](https://sudoc.dev)
 
-📫 How to reach me
+How to reach me
 
-gsudubhat@gmail.com www.twitter.com/sudobhat www.instagram.com/le_sudarshan www.linkedin.com/in/sudarshangbhat
+[twitter](www.twitter.com/sudobhat)
+
+[instagram](www.instagram.com/le_sudarshan)
+
+[linkedin](www.linkedin.com/in/sudarshangbhat)
 
