@@ -19,7 +19,7 @@ Professional github profile: [sudobhat](https://github.com/sudobhat)
 
 ## Tech I work with
 
-C / C++ / Python / Linux / JavaScript / TypeScript / NodeJS/ NextJS / ReactJS / NQTT / AWS / Docker / Kubernetes / Git
+C / C++ / Python / Linux / JavaScript / TypeScript / NodeJS / EXPRESSJS / NextJS / ReactJS / MQTT / AWS / Docker / Kubernetes / Git
 
 ## I constantly write IoT related content on my blog 
 
