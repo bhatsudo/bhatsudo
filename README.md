@@ -1,4 +1,4 @@
-![Hello, I am Sudo Bhat](assets/hello.gif)
+![Hello, I am Sudo Bhat](./hello.gif)
 ### Hi there! I am Sudo Bhat
 
 🔭 I’m currently working on
