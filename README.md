@@ -23,14 +23,14 @@ C / C++ / Python / Linux / JavaScript / TypeScript / NodeJS/ NextJS / ReactJS / 
 
 ## I constantly write IoT related content on my blog 
 
-Check out [sudoc.dev](https://sudoc.dev)!
+Check out [sudoc.dev](https://sudoc.dev) !
 
 ## How to reach me
 
-[twitter](www.twitter.com/sudobhat)
+[Twitter](www.twitter.com/sudobhat)
 
-[instagram](www.instagram.com/le_sudarshan)
+[Instagram](www.instagram.com/le_sudarshan)
 
-[linkedin](www.linkedin.com/in/sudarshangbhat)
+[LinkedIn](www.linkedin.com/in/sudarshangbhat)
 
 ![Ciao!](./footer.png)
