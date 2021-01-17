@@ -9,7 +9,7 @@ Currently focusing on improving my cloud development skills and becoming a Fulle
 ## I’m currently working on
 
 ### Sudoc
-Developing my personal blog using NextJS and Strapi
+Developing my personal tech blog with focus on IoT, built using NextJS and Strapi
 
 ### Calponia
 Working with Bosch Engineering to build Calponia, a cloud-based platform with the goal to simplify and automate complex development processes.
