@@ -27,6 +27,8 @@ Check out [sudoc.dev](https://sudoc.dev) !
 
 ## How to reach me
 
+[Hashnode](https://hashnode.com/@sudoc)
+
 [Twitter](https://www.twitter.com/sudobhat)
 
 [Instagram](https://www.instagram.com/le_sudarshan)
