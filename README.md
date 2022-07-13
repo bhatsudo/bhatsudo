@@ -11,9 +11,11 @@ Currently focusing on improving my cloud development skills and becoming a Fulle
 ### Sudoc
 Developing my personal tech blog with focus on IoT, built using NextJS and Strapi
 
+## What I worked on
+
 ### Calponia
-Working with Bosch Engineering to build Calponia, a cloud-based platform with the goal to simplify and automate complex development processes.
-Working on providing connectivity services for IoT devices that are using Calponia.
+Worked with Bosch Engineering to build Calponia, a cloud-based platform with the goal to simplify and automate complex development processes.
+Worked on providing connectivity services for IoT devices that are using Calponia.
 
 Professional github profile: [sudobhat](https://github.com/sudobhat)
 
