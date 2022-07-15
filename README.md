@@ -2,9 +2,15 @@
 
 ## Who am I?
 
-I am a huge technology entusiast and a passionate Internet of Things developer living in beautiful city of Vienna, Austria.
-I have worked on various layers of Internet of Things stack and I continue to explore new stuff in the excitin area of Internet of Things.
-I currently work as IoT Research Scientist / Software Engineer at Siemens.
+I am a creative technologist who is passionate about the Internet of Things ( IoT ). I believe that there is nothing greater than working on something that you enjoy, which makes you create awesome things.
+
+Till now, I have worked on different layers of IoT Stack ( Device Hardware | Device Software | Communications | Cloud Platforms | Cloud Applications ) and developed IoT solutions in the areas of Smart Home, Smart Mobility, and Smart Infrastructure. I continue to explore new topics and technologies in the exciting area of the Internet of Things. 
+
+My other areas of interest include Software Architecture patterns, Agile methodologies, Clean Code principles, Design Thinking, User Experience Design, Artificial Intelligence, and Blockchain.
+
+When I am not working, I am usually with a sheet of paper and a bunch of pencils sketching some stuff. I am a creative person who loves logo designing and graphics creation. I travel and take photographs whenever I can.
+
+My mantra: "An engineer should know everything about something and something about everything"
 
 ## I’m currently working on
 
