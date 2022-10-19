@@ -53,7 +53,7 @@ As an IoT enthusiast, I would like to list my skills by different layers of the 
  • WebVR ( A-Frame ), Node-RED, OpenHAB, Home Assistant
 
 5) Cloud Applications:
- • HTML, CSS, Javascript, Typescript, MERN Stack ( MongoDb, ExpressJS, ReactJS, NodeJS ), Tailwind CSS, Storybook, Frameworks like NextJS
+ • Javascript, Typescript, HTML, CSS, MERN Stack ( MongoDb, ExpressJS, ReactJS, NodeJS ), Java ( Spring Boot ), Tailwind CSS, Storybook, Frameworks like NextJS
  • Working with SQL and NoSQL databases ( PostgreSQL, MongoDB )
  • Jest, Mocha, Chai, Sinon, Test Driven Development (TDD), End-to-End testing using Cypress
 
