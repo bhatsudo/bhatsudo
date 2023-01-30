@@ -54,7 +54,7 @@ As an IoT enthusiast, I would like to list my skills by different layers of the 
 
 5) Cloud Applications:
  • Javascript, Typescript, HTML, CSS, MERN Stack ( MongoDb, ExpressJS, ReactJS, NodeJS ), Java ( Spring Boot ), Tailwind CSS, Storybook, Frameworks like NextJS
- • Working with SQL and NoSQL databases ( PostgreSQL, MongoDB )
+ • Working with SQL and NoSQL databases ( PostgreSQL, MongoDB, Neo4j )
  • Jest, Mocha, Chai, Sinon, Test Driven Development (TDD), End-to-End testing using Cypress
 
 Other skills: 
