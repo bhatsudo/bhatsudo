@@ -18,15 +18,13 @@ My mantra: "An engineer should know everything about something and something abo
 Developing my personal tech blog with focus on IoT, self-designed and built using NextJS and Strapi
 
 ### Smart Infrasturcture and Smart Grids
-Working on the research projects in the aforementioned area at Siemens
+Working on the research projects in the above area at Siemens
 
 ## What I have worked on
 
 ### Smart Mobility
 Worked with Bosch Engineering to build Calponia, a cloud-based platform with the goal to simplify and automate complex development processes.
 Worked on providing connectivity services for IoT devices that are using Calponia.
-
-Professional github profile: [sudobhat](https://github.com/sudobhat)
 
 ## Skills
 
@@ -44,7 +42,7 @@ As an IoT enthusiast, I would like to list my skills by different layers of the 
  • Eclipse, Borland Together, CPPUnit, Microsoft Visual Studio, Atmel Studio
 
 3) Communications:
- • TCP/IP, MQTT, AMQP, CAN, UART, SPI, I2C, Zigbee, BLE, NFC, GSM, and 1 wire
+ • TCP/IP, MQTT, Kafka, AMQP, CAN, UART, SPI, I2C, Zigbee, BLE, NFC, GSM, and 1 wire
 
 4) Cloud Platform:
  • Could Service like AWS IAM, AWS IoT Core, AWS Lambda, AWS S3, AWS EC2, AWS ECS, AWS API Gateway, AWS SNS, Azure IoT Hub, Google Cloud IoT
